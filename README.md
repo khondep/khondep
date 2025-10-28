@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purvang Khonde</h1>
 <h3 align="center">MS Information Systems, Northeastern University, Boston | BTech CSE | Full Stack Developer | iOS Developer | Business Analyst</h3>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=khondep">
-    <img src="https://github-profile-trophy.vercel.app/?username=khondep&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
-  </a>
-</p>
 
 ---
 
