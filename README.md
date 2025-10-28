@@ -59,14 +59,6 @@
 
 ---
 
-### 🕹️ Fun Zone
-<p align="center">
-  <b>🎮 Play the GitHub Contribution Snake!</b><br/>
-  <!-- This file is created by the workflow below -->
-  <img src="https://raw.githubusercontent.com/khondep/khondep/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 <h3 align="center">✨ “Turning ideas into pixel-perfect digital experiences.” ✨</h3>
 
