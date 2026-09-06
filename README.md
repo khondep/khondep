@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[JiffyJobs](https://github.com/priyank-neu/JiffyJobs)**
 - 🌱 I’m learning **Advanced Web Animations (GSAP)** — exploring new ways to make web experiences dynamic and engaging
-- 👨‍💻 All of my projects are available at **[purvangkme.vercel.app](https://purvangkme.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[purvangkme.vercel.app](https://purvang-khonde.vercel.app/)**
 - 📝 I write articles on **[Medium](https://medium.com/@khonde.p)**
 - 💬 Ask me about **React • Vue • GSAP • Frontend Architecture • Web Performance**
 - 📫 Reach me at **khonde.p@northeastern.edu**
